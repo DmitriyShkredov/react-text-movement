@@ -2,7 +2,7 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-text-movement/
 
-#### `Youtube:` [Как сделать бесконечную анимацию текста в React JS](https://studio.youtube.com/video/T0qxbgxkHyQ/edit)
+#### `Youtube:` [Как сделать бесконечную анимацию текста в React JS](https://youtube.com/shorts/T0qxbgxkHyQ)
 
 ---
 

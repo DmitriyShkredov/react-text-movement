@@ -2,9 +2,9 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-text-movement/
 
-#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/ ... )
+#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/49)
 
-#### `Видео:` [YouTube](https://youtube.com/shorts/T0qxbgxkHyQ) | [Дзен](https://m.dzen.ru/video/watch/652ea2098bb3b37f9158ff3c) | [VK Видео](https://vk.com/video-222570561_456239049?t=19s) | [RuTube](https://rutube.ru/video/1f6a1be822b800c16e73f33ba1444ab6/)
+#### `Видео:` [YouTube](https://youtube.com/shorts/T0qxbgxkHyQ) | [Дзен](https://m.dzen.ru/video/watch/652ea2098bb3b37f9158ff3c) | [VK Видео](https://vk.com/video-222570561_456239049) | [RuTube](https://rutube.ru/video/1f6a1be822b800c16e73f33ba1444ab6/)
 
 ---
 
